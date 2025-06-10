@@ -1,4 +1,4 @@
-Dados do aluno
+Dados do aluno.
 
 -Primeiro Nome: Vandro
 -Profissão: Auxiliar de produção
@@ -12,3 +12,4 @@ Obrigado!!!
 Arquivo de dados alterado
 
 
+Feito as alterções.
